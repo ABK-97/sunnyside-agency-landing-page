@@ -1,5 +1,5 @@
 header{
-    background: url(../images/desktop/image-header.jpg);
+    background-image: url(../images/desktop/image-header.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     padding-top: 55%;
@@ -63,7 +63,7 @@ header{
 // ------------------------------------------------------Media-mobile-----------------------------------------------------------
 @include mobile{
     header{
-        background-image: url("/images/mobile/image-header.jpg");
+        background-image: url(../images/mobile/image-header.jpg);
         padding-top: 140%;
     }
     .logo-nav{

@@ -33,7 +33,7 @@
         
     }
     .part-2{
-        background-image: url("/images/desktop/image-transform.jpg");
+        background-image: url(../images/desktop/image-transform.jpg);
         background-size: 100%;
         background-repeat: no-repeat;
         
@@ -41,7 +41,7 @@
         
     }
     .part-2-1{
-        background-image: url("/images/desktop/image-stand-out.jpg");
+        background-image: url(../images/desktop/image-stand-out.jpg);
         background-size: 100%;
         background-repeat: no-repeat;
         
@@ -59,7 +59,7 @@
         }
     }
     .part-3{
-        background-image: url("/images/desktop/image-graphic-design.jpg");
+        background-image: url(../images/desktop/image-graphic-design.jpg);
         background-size: 100%;
         background-repeat: no-repeat;
         color: hsl(167, 40%, 24%);
@@ -67,7 +67,7 @@
         
     }
     .part-3-1{
-        background-image: url("/images/desktop/image-photography.jpg");
+        background-image: url(../images/desktop/image-photography.jpg);
         background-size: 100%;
         background-repeat: no-repeat;
         color: hsl(198, 62%, 26%);
@@ -104,13 +104,13 @@
         .part-2{
             width: 100%;
             padding: 45%;
-            background-image: url("/images/mobile/image-transform.jpg");
+            background-image: url(../images/mobile/image-transform.jpg);
             order: 1;
         }
         .part-2-1{
             width: 100%;
             padding: 45%;
-            background-image: url("/images/mobile/image-stand-out.jpg");
+            background-image: url(../images/mobile/image-stand-out.jpg);
             order: 3;
             
         }
@@ -125,11 +125,11 @@
             }
         }
         .part-3{
-            background-image: url("/images/mobile/image-graphic-design.jpg");
+            background-image: url(../images/mobile/image-graphic-design.jpg);
             order: 5;
         }
         .part-3-1{
-            background-image: url("/images/mobile/image-photography.jpg");
+            background-image: url(../images/mobile/image-photography.jpg);
             order: 6;
             
         }
@@ -231,16 +231,16 @@
         padding: 15% 0;
     }
     .img-1{
-        background-image: url("/images/desktop/image-gallery-milkbottles.jpg");
+        background-image: url(../images/desktop/image-gallery-milkbottles.jpg);
     }
     .img-2{
-        background-image: url("/images/desktop/image-gallery-orange.jpg");
+        background-image: url(../images/desktop/image-gallery-orange.jpg);
     }
     .img-3{
-        background-image: url("/images/desktop/image-gallery-cone.jpg");
+        background-image: url(../images/desktop/image-gallery-cone.jpg);
     }
     .img-4{
-        background-image: url("/images/desktop/image-gallery-sugarcubes.jpg");
+        background-image: url(../images/desktop/image-gallery-sugarcubes.jpg);
         
     }
     .img-1,.img-2,.img-3,.img-4{
@@ -261,16 +261,16 @@
        
         }
         .img-1{
-            background-image: url("/images/mobile/image-gallery-milkbottles.jpg");
+            background-image: url(../images/mobile/image-gallery-milkbottles.jpg);
         }
         .img-2{
-            background-image: url("/images/mobile/image-gallery-orange.jpg");
+            background-image: url(../images/mobile/image-gallery-orange.jpg);
         }
         .img-3{
-            background-image: url("/images/mobile/image-gallery-cone.jpg");
+            background-image: url(../images/mobile/image-gallery-cone.jpg);
         }
         .img-4{
-            background-image: url("/images/mobile/image-gallery-sugar-cubes.jpg");
+            background-image: url(../images/mobile/image-gallery-sugar-cubes.jpg);
             
         }
     }
